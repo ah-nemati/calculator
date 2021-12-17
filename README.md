@@ -1,3 +1,3 @@
 # Demo
 
-click on [Calculator](https://amir9009.github.io/calculator/).
+[Calculator](https://ah-nemati.github.io/calculator/).
